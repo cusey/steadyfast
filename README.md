@@ -147,9 +147,9 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 ```
 
-Repeated Commits
+After initial Commit
 
-Stage File
+Stage File(s)
 ```
 $ git add .
 ```
@@ -164,6 +164,5 @@ Push the local changes to the cloud GitHub repository
 
 ```
 git push -u origin master
-Username for 'https://github.com': jjcusey@gmail.com
-Password for 'https://jjcusey@gmail.com@github.com':
+
 ```
