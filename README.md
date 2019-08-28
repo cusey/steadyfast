@@ -121,7 +121,7 @@ $ git config --global user.email "john_cusey@hotmail.com"
 $ git config --global user.name "John Cusey"
 ```
 
-Commiting the code basis 
+First Commit 
 
 ```
 $ git init
@@ -145,4 +145,23 @@ To https://github.com/cusey/steadyfast.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
+```
+
+Repeated Commits
+
+Stage File
+```
+$ git add .
+```
+
+Commit staged changes to local repository with commit message
+
+```
+$ git commit -m "the commit message"
+```
+
+Push the local changes to the cloud GitHub repository
+
+```
+git push -u origin master
 ```
