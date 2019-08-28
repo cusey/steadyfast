@@ -164,4 +164,6 @@ Push the local changes to the cloud GitHub repository
 
 ```
 git push -u origin master
+Username for 'https://github.com': jjcusey@gmail.com
+Password for 'https://jjcusey@gmail.com@github.com':
 ```
