@@ -1,6 +1,6 @@
 ![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)
 
-# Steadyfast
+# README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -151,6 +151,3 @@ To https://github.com/cusey/steadyfast.git
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 ```
-
-
-
