@@ -1,17 +1,24 @@
-# web-rails-simple
+# README
 
-Rails Sample Application
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-# Developer Workspace
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=zzhxttdbkenczqcx)
+Things you may want to cover:
 
-# Stack to use
+* Ruby version
 
-FROM [codenvy/ubuntu_rails](https://hub.docker.com/r/codenvy/ubuntu_rails/)
+* System dependencies
 
-# How to run
+* Configuration
 
-| #       | Description           | Command  |
-| :------------- |:-------------| :-----|
-| 1      | Install dependencies | `cd ${current.project.path} && bundle install` |
-| 2      | Run | `cd ${current.project.path} && rails server -b 0.0.0.0` |
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
