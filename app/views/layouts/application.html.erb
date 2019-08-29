@@ -18,19 +18,21 @@
 
   <body >
   
-    <nav class="navbar navbar-default">
+    <div >
+    <nav class="navbar navbar-default" style="background-color:#ff8d79;">
         <div class="container-fluid">
             <div class="navbar-header">     
                 <a class="navbar-brand" href="#">Steadyfast</a>
                     </div>
                         <ul class="nav navbar-nav">
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#">Page 1</a></li>
-                            <li><a href="#">Page 2</a></li>
-                            <li><a href="#">Page 3</a></li>
+                            <li class="active"><a href="/">Home</a></li>
+                            <li><a href="/dictionaries">Dictionary</a></li>
+                            <li><a href="/users">Users</a></li>
+                            <li><a href="/correctnesses">Correctnesses</a></li>
                         </ul>
        </div>
     </nav>
+    </div>
 
     <%= yield %>
   </body>
