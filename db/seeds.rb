@@ -42,8 +42,15 @@ Dictionary.create(word:"crone",  partOfSpeech:"N.", definition:"hag.", wordUsage
 
 # User Seed
 
+User.create( userName:"bill", password:"pwb", firstName:"Bill", lastName: "Clinton", rights:"user" )
+User.create( userName:"john", password:"pwj", firstName:"John", lastName: "Cusey", rights:"admin" )
+User.create( userName:"dick", password:"pwd", firstName:"Dick", lastName: "Nixon", rights:"user" )
+User.create( userName:"barack", password:"pwb", firstName:"Barack", lastName: "Obama", rights:"user" )
 
-User.create( firstName:"Bill", lastName: "Clinton", rights:"user" )
-User.create( firstName:"John", lastName: "Cusey", rights:"admin" )
-User.create( firstName:"Dick", lastName: "Nixon", rights:"user" )
-User.create( firstName:"Barack", lastName: "Obama", rights:"user" )
+
+# Correctnesses Seed
+
+
+
+
+
