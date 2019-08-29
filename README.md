@@ -163,6 +163,6 @@ $ git commit -m "the commit message"
 Push the local changes to the cloud GitHub repository
 
 ```
-git push -u origin master
+$ git push -u origin master
 
 ```
