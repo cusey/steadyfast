@@ -16,8 +16,8 @@
   <tbody>
     <% @correctnesses.each do |correctness| %>
       <tr>
-        <td><%= correctness.dictionary %></td>
-        <td><%= correctness.user %></td>
+        <td><%= correctness.dictionary_id %></td>
+        <td><%= correctness.user_id %></td>
         <td><%= correctness.totalTryCount %></td>
         <td><%= correctness.rightCount %></td>
         <td><%= link_to 'Show', correctness %></td>
