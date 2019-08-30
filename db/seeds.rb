@@ -50,6 +50,14 @@ User.create( userName:"barack", password:"pwb", firstName:"Barack", lastName: "O
 
 # Correctnesses Seed
 
+Correctness.create(dictionary_id:1, user_id:1, totalTryCount:5, rightCount:2 )
+Correctness.create(dictionary_id:2, user_id:1, totalTryCount:6, rightCount:5 )
+Correctness.create(dictionary_id:3, user_id:1, totalTryCount:8, rightCount:4 )
+Correctness.create(dictionary_id:4, user_id:1, totalTryCount:3, rightCount:1 )
+Correctness.create(dictionary_id:1, user_id:2, totalTryCount:5, rightCount:2 )
+Correctness.create(dictionary_id:2, user_id:2, totalTryCount:7, rightCount:4 )
+Correctness.create(dictionary_id:3, user_id:2, totalTryCount:1, rightCount:0 )
+
 
 
 
