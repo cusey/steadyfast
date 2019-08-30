@@ -154,6 +154,11 @@ Stage File(s)
 $ git add .
 ```
 
+List stage File(s)
+```
+$ git diff --name-only --cached
+```
+
 Commit staged changes to local repository with commit message
 
 ```
