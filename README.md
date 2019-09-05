@@ -37,7 +37,7 @@ $ cd web-rails-simple/
 ```
 
 
-#### Scaffold
+##### Scaffold
 
 ```
 $ rails generate scaffold Dictionary word:string partOfSpeech:string definition:string wordUsage:string 
