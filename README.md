@@ -110,7 +110,7 @@ User.create( firstName:"Barack", lastName: "Obama", rights:"user" )
 $ rake db:seed
 ```
 
-## Rails Console 
+* Rails Console 
 
 If get cannot load such file error message when trying to run the rails console from the termial window.  
 
