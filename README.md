@@ -8,7 +8,7 @@
 
 * System dependencies
 
-#### Composite Primary Keys 
+* Composite Primary Keys 
 
 Add the following line of code to your Gemfile to install Composite Primary Keys for Active Records      
      
