@@ -110,3 +110,12 @@ User.create( firstName:"Barack", lastName: "Obama", rights:"user" )
 $ rake db:seed
 ```
 
+## Rails Console 
+
+If get cannot load such file error message when trying to run the rails console from the termial window.  
+
+[rails console require cannot load such file readline - stack overflow](https://stackoverflow.com/questions/34875379/rails-console-require-cannot-load-such-file-readline/34876928)     
+
+
+
+
