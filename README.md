@@ -61,7 +61,7 @@ $ rake db:migrate
 
 ```
 
-* Database initialization
+* # Database initialization
 
 [db/seeds](https://github.com/cusey/steadyfast/blob/master/db/seeds.rb)
 
