@@ -54,6 +54,7 @@ $ rake db:migrate
 
 [db/seeds](https://github.com/cusey/steadyfast/blob/master/db/seeds.rb)
 
+```
 $ rake db:seed
 ```
 
