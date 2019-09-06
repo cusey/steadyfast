@@ -69,7 +69,19 @@ $ rake db:migrate
 $ rake db:seed
 ```
 
-* # Rails Console 
+*  # Rails Console 
+
+## Starting Console
+
+```
+$ rails console
+
+Running via Spring preloader in process 576
+Loading development environment (Rails 5.0.7)
+irb(main):001:0>
+```
+
+## Errors Starting Console
 
 If get cannot load such file error message when trying to run the rails console from the termial window.  
 
@@ -82,5 +94,3 @@ Please add this to your gem file
 ```
 gem 'rb-readline' 
 ```
-
-
