@@ -57,8 +57,6 @@ $ rails generate scaffold Correctness
         totalTryCount:integer 
         rightCount:integer
 
-$ rake db:migrate
-
 ```
 
 * # Database initialization
@@ -66,6 +64,8 @@ $ rake db:migrate
 [db/seeds](https://github.com/cusey/steadyfast/blob/master/db/seeds.rb)
 
 ```
+$ rake db:migrate
+
 $ rake db:seed
 ```
 
